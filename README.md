@@ -49,15 +49,21 @@ Check the :white_check_mark: Todos & :x: Not Todos
 
 ## :page_facing_up: Lab 6 Description
 
-:arrow_right: `Please complete the Google firebase tutorial provided in this section.`
+:arrow_right: `Use the HTML and CSS files provided for this lab.`
 
-:arrow_right: `Use this repo to build the tutorial project.`
+:arrow_right: `Work in pair code group and apply the principles in a collaborative approach.`
+
+:arrow_right: `Complete the functionality of the calculator app by providing the JavaScript code to make it funcational.`
+
+:arrow_right: `Complete the functionality of the calculator app by providing the JavaScript code to make it funcational.`
+
+:arrow_right: `Complete a technical report for each function of the calculator app, use the report markdown file.`
 
 :arrow_right: `You must use NMIT APA 7th ed. Referencing Guide`
 
 ## :books: Resources 
 
-|[Git](https://git-scm.com/docs)|[Firebase tutorial](https://softauthor.com/learn-to-build-firebase-crud-app-with-javascript-part01-reading-data/)|[GitHub Markdown](https://github.github.com/gfm/)|[APA7](https://ecampus.nmit.ac.nz/moodle/pluginfile.php/1568015/mod_label/intro/2020%20NMIT%20APA%20Referencing%207th%20edition%20guide.pdf?time=1587511859519)|
+|[Git](https://git-scm.com/docs)|[Technical Report blog ](https://blog.bit.ai/technical-report/)|[GitHub Markdown](https://github.github.com/gfm/)|[APA7](https://ecampus.nmit.ac.nz/moodle/pluginfile.php/1568015/mod_label/intro/2020%20NMIT%20APA%20Referencing%207th%20edition%20guide.pdf?time=1587511859519)|
 |---|---|---|---|
 
 ## :loudspeaker: IMPORTANT NOTE
