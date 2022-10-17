@@ -20,7 +20,7 @@
 
 👤 **Ali Kahwaji**
 
-* :school: [MSteams](https://teams.microsoft.com/l/channel/19%3aiINrWvGZRfPTJYiWcvt-Z2LD1Ux9D2HxVD-bkgbDt5E1%40thread.tacv2/General?groupId=258b4662-b775-4bcd-961a-e62fc74526ce&tenantId=d270022d-f990-4b41-9ce0-468f043eef4f)
+* :school: [MSteams](https://teams.microsoft.com/l/team/19%3aOsLR-gNsTIxHXlz7pv35fC39T_sDUxelQDytxwziUIQ1%40thread.tacv2/conversations?groupId=267eef31-018a-457a-b5a8-e242d1be25ba&tenantId=d270022d-f990-4b41-9ce0-468f043eef4f)
 * :e-mail: [Email](ali.kahwaji@nmit.ac.nz)
 
 
